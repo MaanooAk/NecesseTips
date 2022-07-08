@@ -1,3 +1,5 @@
-An example mod for Necesse.
+# Tips
 
-Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
+Necesse mod that shows tips in the loading screens.
+
+[Steam workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=2832230416)
